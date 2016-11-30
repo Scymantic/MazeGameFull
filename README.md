@@ -1,7 +1,7 @@
 # MazeGameFull
 A simple puzzle game whereby one recreates a maze using its unordered tile representation
 
-Read Me!!
+
 Adrian Barberis
 
 Tuesday Nov. 29, 2016, 3:03PM
