@@ -9,16 +9,13 @@ Tuesday Nov. 29, 2016, 3:03PM
 This program recognizes both JPG,JPEG,PNG,MZE,SAV extensions the last 2 are "proprietary" an example of witch is in the src folder. SAV is really just textual representation of the various data that the game outputs.  Dont worry about the MZE format.
 Note that only SAV files for this game can be used I know some games also choose to save their files with a .sav tag those WILL NOT WORK on here obviously.
 
-Any JPEG,JPG,PNG once saved will be saved in this SAV format.  The intial file broweser should open 
-to the location where you saved the exec/project therfore I reccomend saving everything there.
+Any JPEG,JPG,PNG once saved will be saved in this SAV format.  The intial file browser should open 
+to the location where you saved the exec/project therefore I reccomend saving everything there.
 
-You may experience some hang when initializing and after selecting the wrong intial "default" file I have no idea why
-this happens and I believe its just a problem that converting the Java project to a java exec created.  I will eventually 
-try and solve it but for now a simple restart whould work just fine.
+You may experience some hang when initializing and after selecting the wrong intial "default" file the game will probably crash I have no idea why this happens and I believe its just a problem that converting the Java project to a java exec created.  I will eventually try and solve it but for now a simple restart whould work just fine.
 
 Note that YOU MUST load a DEFUALT file first.  This unfortunately was the specification for this project I may change
-it in the future but since I included a default in the src folder I dont really know when I'll do that. Simply rename whatever 
-file you want to "defaultXYZ" as long as the filename contains "defualt" you can have anything else after or before and it will still be recognized as a "defualt file".
+it in the future but since I included a default in the src folder I dont really know when I'll do that. In the mean time simply rename whatever file you want to "defaultXYZ" as long as the filename contains "defualt" you can have anything else after or before and it will still be recognized as a "defualt file".
 
 This program also allows you to load a background image just for fun. :)
 
