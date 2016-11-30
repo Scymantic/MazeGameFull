@@ -15,7 +15,7 @@ to the location where you saved the exec/project therefore I reccomend saving ev
 You may experience some hang when initializing and after selecting the wrong intial "default" file the game will probably crash I have no idea why this happens and I believe its just a problem that converting the Java project to a java exec created.  I will eventually try and solve it but for now a simple restart whould work just fine.
 
 Note that YOU MUST load a DEFUALT file first.  This unfortunately was the specification for this project I may change
-it in the future but since I included a default in the src folder I dont really know when I'll do that. In the mean time simply rename whatever file you want to "defaultXYZ" as long as the filename contains "defualt" you can have anything else after or before and it will still be recognized as a "defualt file".
+it in the future but since I included a default in the src folder I dont really know when I'll do that. In the mean time simply rename whatever file you want to "defaultXYZ" as long as the filename contains "default" you can have anything else after or before and it will still be recognized as a "default file".
 
 This program also allows you to load a background image just for fun. :)
 
