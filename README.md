@@ -4,7 +4,7 @@ A simple puzzle game whereby one recreates a maze using its unordered tile repre
 
 Adrian Barberis
 
-Tuesday Nov. 29, 2016, 3:03PM
+Tuesday Nov. 29, 2016, 5:22PM
 
 This program recognizes both JPG,JPEG,PNG,MZE,SAV extensions the last 2 are "proprietary" an example of witch is in the src folder. SAV is really just textual representation of the various data that the game outputs.  Dont worry about the MZE format.
 Note that only SAV files for this game can be used I know some games also choose to save their files with a .sav tag those WILL NOT WORK on here obviously.
