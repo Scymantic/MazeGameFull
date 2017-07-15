@@ -19,7 +19,7 @@ it in the future but since I included a default in the src folder I dont really 
 
 This program also allows you to load a background image just for fun. :)
 
-Controls:
+## Controls:
 
 Left Click and Left Click to place a tile you can do this either way i.e. going to the board or going to the shelves.
 
