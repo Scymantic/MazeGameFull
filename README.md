@@ -37,7 +37,3 @@ Cheers and Enjoy!
 AMA and other questions:
 14abarberis@gmail.com
 
-*Please set subject as Question/AMA at Scymantic's Git-Hub: MazeGameFinal*
-YOU WILL NOT BE REPONDED TO UNLESS YOU HAVE THAT SUBJECT LINE
-This is just to help reduce spam
-
