@@ -1,6 +1,7 @@
 # MazeGameFull
 A simple puzzle game whereby one recreates a maze using its unordered tile representation
 
+Original idea and project specs Dr. Kim Buckner Professor Computer Science University of Wyoming USA. 
 
 Adrian Barberis
 
